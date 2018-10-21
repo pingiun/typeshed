@@ -5,8 +5,8 @@
 from logging import Logger
 from datetime import datetime
 
-from telegram import (Animation, Audio, ChatAction, Contact, Document, InlineQueryResult, InputMedia, LabeledPrice, Location, 
-                      MaskPosition, ParseMode, PassportElementError, PhotoSize, ReplyMarkup, ShippingOption, Sticker, 
+from telegram import (Animation, Audio, ChatAction, Contact, Document, InlineQueryResult, InputMedia, LabeledPrice, Location,
+                      MaskPosition, ParseMode, PassportElementError, PhotoSize, ReplyMarkup, ShippingOption, Sticker,
                       TelegramObject, User, Video, VideoNote, Voice)
 from telegram.utils.request import Request
 
